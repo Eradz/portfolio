@@ -1,0 +1,12 @@
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.socials i{
+    color: var(--iconcolor);
+    font-size: 30px;
+}
+.footer{
+    margin-bottom: 100px;
+}
